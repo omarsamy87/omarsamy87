@@ -8,10 +8,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=flutter%20mobile%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  <a href="https://wa.me/201030369400" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Contact">
-</a>
-
+ 
 </p> 
 
 - 🏢 I'm a Software Engineer
@@ -21,6 +18,10 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/omar-samy-5a8236346" target="_blank"><img src="https://img.shields.io/badge/omar%20samy-5a8236346?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://wa.me/201030369400" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Contact">
+</a>
+
 
 
 
